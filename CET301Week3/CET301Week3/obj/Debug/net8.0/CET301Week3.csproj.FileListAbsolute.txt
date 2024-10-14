@@ -1,0 +1,14 @@
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\bin\Debug\net8.0\CET301Week3.exe
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\bin\Debug\net8.0\CET301Week3.deps.json
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\bin\Debug\net8.0\CET301Week3.runtimeconfig.json
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\bin\Debug\net8.0\CET301Week3.dll
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\bin\Debug\net8.0\CET301Week3.pdb
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\CET301Week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\CET301Week3.AssemblyInfoInputs.cache
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\CET301Week3.AssemblyInfo.cs
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\CET301Week3.csproj.CoreCompileInputs.cache
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\CET301Week3.dll
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\refint\CET301Week3.dll
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\CET301Week3.pdb
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\CET301Week3.genruntimeconfig.cache
+C:\Users\cemmr\source\repos\CET301Week3\CET301Week3\obj\Debug\net8.0\ref\CET301Week3.dll

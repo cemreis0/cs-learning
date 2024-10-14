@@ -1,0 +1,14 @@
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\bin\Debug\net8.0\CET301SimpleHello.exe
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\bin\Debug\net8.0\CET301SimpleHello.deps.json
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\bin\Debug\net8.0\CET301SimpleHello.runtimeconfig.json
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\bin\Debug\net8.0\CET301SimpleHello.dll
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\bin\Debug\net8.0\CET301SimpleHello.pdb
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\CET301SimpleHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\CET301SimpleHello.AssemblyInfoInputs.cache
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\CET301SimpleHello.AssemblyInfo.cs
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\CET301SimpleHello.csproj.CoreCompileInputs.cache
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\CET301SimpleHello.dll
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\refint\CET301SimpleHello.dll
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\CET301SimpleHello.pdb
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\CET301SimpleHello.genruntimeconfig.cache
+C:\Users\cemmr\source\repos\CET301SimpleHello\CET301SimpleHello\obj\Debug\net8.0\ref\CET301SimpleHello.dll

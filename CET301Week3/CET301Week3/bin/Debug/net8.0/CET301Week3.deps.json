@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CET301Week3/1.0.0": {
+        "runtime": {
+          "CET301Week3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CET301Week3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
