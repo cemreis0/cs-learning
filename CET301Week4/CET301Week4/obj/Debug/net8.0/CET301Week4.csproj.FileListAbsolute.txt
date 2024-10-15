@@ -1,0 +1,15 @@
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.AssemblyInfoInputs.cache
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.AssemblyInfo.cs
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.csproj.CoreCompileInputs.cache
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.sourcelink.json
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\bin\Debug\net8.0\CET301Week4.exe
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\bin\Debug\net8.0\CET301Week4.deps.json
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\bin\Debug\net8.0\CET301Week4.runtimeconfig.json
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\bin\Debug\net8.0\CET301Week4.dll
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\bin\Debug\net8.0\CET301Week4.pdb
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.dll
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\refint\CET301Week4.dll
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.pdb
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\CET301Week4.genruntimeconfig.cache
+C:\Users\cemmr\OneDrive\Masaüstü\CET301\cs-learning\CET301Week4\CET301Week4\obj\Debug\net8.0\ref\CET301Week4.dll
