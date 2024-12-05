@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F936DF5-0DA2-43FC-95C7-A15D9AA3BB71}|CET301Week4\\CET301Week4.csproj|c:\\users\\cemmr\\onedrive\\masa\u00FCst\u00FC\\cet301\\cs-learning\\cet301week4\\cet301week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F936DF5-0DA2-43FC-95C7-A15D9AA3BB71}|CET301Week4\\CET301Week4.csproj|solutionrelative:cet301week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F936DF5-0DA2-43FC-95C7-A15D9AA3BB71}|CET301Week4\\CET301Week4.csproj|c:\\users\\cemmr\\onedrive\\masa\u00FCst\u00FC\\cet301\\cs-learning\\cet301week4\\cet301week4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F936DF5-0DA2-43FC-95C7-A15D9AA3BB71}|CET301Week4\\CET301Week4.csproj|solutionrelative:cet301week4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\cemmr\\OneDrive\\Masa\u00FCst\u00FC\\CET301\\cs-learning\\CET301Week4\\CET301Week4\\Point.cs",
+              "RelativeDocumentMoniker": "CET301Week4\\Point.cs",
+              "ToolTip": "C:\\Users\\cemmr\\OneDrive\\Masa\u00FCst\u00FC\\CET301\\cs-learning\\CET301Week4\\CET301Week4\\Point.cs",
+              "RelativeToolTip": "CET301Week4\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:40:41.549Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "CET301Week4\\Program.cs",
               "ToolTip": "C:\\Users\\cemmr\\OneDrive\\Masa\u00FCst\u00FC\\CET301\\cs-learning\\CET301Week4\\CET301Week4\\Program.cs",
               "RelativeToolTip": "CET301Week4\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T10:25:05.486Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CET301Week4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8fcfbd9b3a9d7975928b093df523750a4cd897f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caeceb66904406703e172548ef4f526fd7410643")]
 [assembly: System.Reflection.AssemblyProductAttribute("CET301Week4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CET301Week4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

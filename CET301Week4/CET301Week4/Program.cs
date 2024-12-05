@@ -1,4 +1,6 @@
-﻿namespace CET301Week4
+﻿using Cet.Point; // To use something from a namespace we use "using"
+
+namespace CET301Week4
 {
     internal class Program
     {
@@ -25,6 +27,7 @@
             int[,] matrix = new int[2, 3]; // Multidimensional array, rectangular matrix, can initialize declaratively
 
             // Class vs Struct
+            // Class reference type
             PointC p1 = new PointC() { PointX = 1, PointY = 1 };
             PointC p2 = new PointC() { PointX = 2, PointY = 2 };
 
@@ -35,6 +38,7 @@
             Console.WriteLine($"p1.PointX = {p1.PointX}, p1.PointY = {p1.PointY}");
             Console.WriteLine($"p2.PointX = {p2.PointX}, p2.PointY = {p2.PointY}");
 
+            // Struct value type
             PointS p3 = new PointS() { PointX = 3, PointY = 3 };
             PointS p4 = new PointS() { PointX = 4,  PointY = 4 };
 
